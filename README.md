@@ -88,7 +88,7 @@ feel free to find his opinions on frameworks and the history of creating PHP on 
 But you don't need to agree with me to use the JSA, so - enjoy :-)
 
 
-Will you answer if we ask more stupid questions?
+Will you answer if we ask more questions?
 
 Surprise me! :-D
 
